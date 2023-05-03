@@ -1,1 +1,1 @@
-# Automating-a-website-using-Selenium-Java-
+# Automating-a-website-using-Selenium-Java
